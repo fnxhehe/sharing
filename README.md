@@ -76,6 +76,7 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 - **The Emerald Nightmare**: The First Satyr's Spaulders (H)
 - **Nighthold**: Living Infernal Core (N/HC)
 - **Tomb of Sargeras**: Abyss Worm / Hammer of Vigilance (N/HC)
+- **TBattle of Dazar'alor**: G.M.O.D (N/HC)
 - **Tazavesh**: Cartel Master's Gearglider (M)
 - **Sanctum of Domination**: Sanctum Gloomcharger's Reins (N/HC)
 - **Dawn of the Infinite**: Reins of the Quantum Courser (M)
