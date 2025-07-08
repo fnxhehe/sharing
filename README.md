@@ -21,7 +21,7 @@ No need for Fnx to join your group. It’s all automated.
 1. Go to the entrance of the raid instance you want to enter.
 2. Make sure you're **not in a group**.
 3. Whisper `Sìxmonths-Ravencrest` with the following command:  
-   - `!share` or `!id` – to receive a lockout link.
+   - `!sharing` – to receive a lockout link.
 4. Follow the chat instructions—it’ll handle the rest!
 
 ---
