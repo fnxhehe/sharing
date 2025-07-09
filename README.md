@@ -94,6 +94,10 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 - Step 3: Enter ICC and accept the lockout warning that pops up, go kill Queen Lana'thel and run back out of the raid (The fastes way to get out is to die in the middle where you can jump into the void), exit the raid.
 - Step 4: Enter ICC, Use the teleporter to Upper Spire, Go to the centre of The Spire to teleport to Lich King, Kill Lich King
 
+---
+
+### 🔍 Final words
+
 Here’s why that might happen:
 - You're on an **Alliance** character but haven’t joined the community yet.  
 - You’re on **Horde**, and cross-faction whispering isn't enabled.  
