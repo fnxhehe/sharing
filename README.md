@@ -76,10 +76,29 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 - **The Emerald Nightmare**: The First Satyr's Spaulders (H)
 - **Nighthold**: Living Infernal Core (N/HC)
 - **Tomb of Sargeras**: Abyss Worm / Hammer of Vigilance (N/HC)
-- **TBattle of Dazar'alor**: G.M.O.D (N/HC)
+- **Battle of Dazar'alor**: G.M.O.D (N/HC)
 - **Tazavesh**: Cartel Master's Gearglider (M)
 - **Sanctum of Domination**: Sanctum Gloomcharger's Reins (N/HC)
 - **Dawn of the Infinite**: Reins of the Quantum Courser (M)
+
+---
+
+### 🔍 How to use ICC lockout
+
+> “**KEEP IN MIND THIS IS HORDE ONLY AND WILL NOT WORK AS ALLIANCE**”
+
+- Step 1: Set Raid Difficulty to Heroic and 25 Player, Enter ICC, Kill the first boss (Lord Marrowgar), Exit ICC
+- Step 2: Outside ICC,
+- `/w Sìxmonths-Ravencrest !sharing`
+- Accept the invite
+- Step 3: Enter ICC, Accept the lockout, Use Teleporter to Upper Spire, Kill Blood-Queen Lana'thel, Use Teleport to Light's Hammer, Exit ICC (this is important, if you go straight to Lich King here, it'll still be on Normal)
+- Step 4: Enter ICC, Use Teleporter to Upper Spire, Go to the centre of The Spire to teleport to Lich King, Kill Lich King
+- Step 5: (optional) Loot Invincible's Reins
+
+Here’s why that might happen:
+- You're on an **Alliance** character but haven’t joined the community yet.  
+- You’re on **Horde**, and cross-faction whispering isn't enabled.  
+- Sìxmonths-Ravencrest is simply **offline**.
 
 ---
 
