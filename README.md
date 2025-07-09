@@ -96,14 +96,6 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 
 ---
 
-### 🔍 Final words
-
-Here’s why that might happen:
-- You're on an **Alliance** character but haven’t joined the community yet.  
-- You’re on **Horde**, and cross-faction whispering isn't enabled.  
-- Sìxmonths-Ravencrest is simply **offline**.
-
----
 
 Need help or want to give feedback? Ping @Fnx on discord or drop a message via the community chat.  
 Happy farming! 🐉🎁
