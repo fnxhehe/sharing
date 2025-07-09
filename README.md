@@ -71,6 +71,7 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 
 - **Black Temple**: Warglaives of Azzinoth
 - **Ulduar**: Mimiron's Head
+- **Icecrown Citadel**: Invincible's Reins
 - **Firelands**: Flametalon of Alysrazor / Smoldering Egg of Millagazor (N/HC)
 - **Return to Karazhan**: Midnight (M)
 - **The Emerald Nightmare**: The First Satyr's Spaulders (H)
