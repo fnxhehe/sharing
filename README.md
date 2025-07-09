@@ -87,13 +87,12 @@ Here’s a list of the supported raids and dungeons for lockout sharing, with sp
 
 > “**KEEP IN MIND THIS IS HORDE ONLY AND WILL NOT WORK AS ALLIANCE**”
 
-- Step 1: Set Raid Difficulty to Heroic and 25 Player, Enter ICC, Kill the first boss (Lord Marrowgar), Exit ICC
-- Step 2: Outside ICC,
+- Step 1: Set Raid Difficulty to Heroic and 25 Player and enter ICC, Kill the first boss, and then Exit ICC
+- Step 2: When outside of ICC,
 - `/w Sìxmonths-Ravencrest !sharing`
 - Accept the invite
-- Step 3: Enter ICC, Accept the lockout, Use Teleporter to Upper Spire, Kill Blood-Queen Lana'thel, Use Teleport to Light's Hammer, Exit ICC (this is important, if you go straight to Lich King here, it'll still be on Normal)
-- Step 4: Enter ICC, Use Teleporter to Upper Spire, Go to the centre of The Spire to teleport to Lich King, Kill Lich King
-- Step 5: (optional) Loot Invincible's Reins
+- Step 3: Enter ICC and accept the lockout warning that pops up, go kill Queen Lana'thel and run back out of the raid (The fastes way to get out is to die in the middle where you can jump into the void), exit the raid.
+- Step 4: Enter ICC, Use the teleporter to Upper Spire, Go to the centre of The Spire to teleport to Lich King, Kill Lich King
 
 Here’s why that might happen:
 - You're on an **Alliance** character but haven’t joined the community yet.  
