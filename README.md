@@ -28,7 +28,8 @@ No need for Fnx to join your group. It’s all automated.
 
 ### 🗂️ Community Access Codes  
 Join this in-game community to make everything easier:
-- **Main in-game community:** `K3G5AGnIKqm`  
+- **New community:** `vplVYBWtOk` 
+- **Community is full:** `K3G5AGnIKqm`     
 
 > 💡 This community helps with automatic invites and whisper permissions.
 
